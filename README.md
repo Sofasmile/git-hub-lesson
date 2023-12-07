@@ -4,3 +4,4 @@ HW-3: add method `int substruct(int a, int b)`
 HW-4: create method `double add(double a, double b)`
 
 HW-5: add method `double subtract(double a, double b)`
+HW-6: add method `double multiply(double a, double b)`
