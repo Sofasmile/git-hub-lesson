@@ -22,4 +22,8 @@ public class Calculator {
     public double subtract(double a, double b) {
         return a - b;
     }
+
+    public long add(long a, long b) {
+        return a + b;
+    }
 }

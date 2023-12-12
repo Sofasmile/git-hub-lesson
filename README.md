@@ -5,3 +5,5 @@ HW-4: create method `double add(double a, double b)`
 
 HW-5: add method `double subtract(double a, double b)`
 HW-6: add method `double multiply(double a, double b)`
+
+HW-7: add method `long add(long a, long b)`
